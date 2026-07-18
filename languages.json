@@ -5,6 +5,12 @@
     "logo": "python",
     "extensions": [".py", ".pyw", ".pyi"]
   },
+   "Mojo": {
+    "color": "#ff4c1f",
+    "badge_color": "FF4E00",
+    "logo": "mojo",
+    "extensions": [".mojo"]
+  },
   "JavaScript": {
     "color": "#f1e05a",
     "badge_color": "F7DF1E",
@@ -620,6 +626,12 @@
     "color": "#61DAFB",
     "badge_color": "61DAFB",
     "logo": "react"
+  },
+  "Astro": {
+    "color": "#00ffff",
+    "badge_color": "BC52EE",
+    "logo": "astro",
+    "extensions": [".astro"]
   },
   "Node.js": {
     "color": "#339933",
