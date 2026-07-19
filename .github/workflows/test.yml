@@ -20,7 +20,7 @@ jobs:
       - name: Run Action
         uses: ./
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: 'leaderboard bar pie donut'
           output_path: 'stats'
           exclude_languages: 'HTML,CSS'
