@@ -1,5 +1,5 @@
 {
-  "Py": {
+  "Python": {
     "color": "#3572A5",
     "badge_color": "3776AB",
     "logo": "python",
@@ -11,13 +11,13 @@
     "logo": "mojo",
     "extensions": [".mojo"]
   },
-  "JS": {
+  "JavaScript": {
     "color": "#f1e05a",
     "badge_color": "F7DF1E",
     "logo": "javascript",
     "extensions": [".js", ".mjs", ".cjs", ".jsx"]
   },
-  "TS": {
+  "TypeScript": {
     "color": "#2b7489",
     "badge_color": "3178C6",
     "logo": "typescript",
@@ -53,7 +53,7 @@
     "logo": "go",
     "extensions": [".go"]
   },
-  "Rs": {
+  "Rust": {
     "color": "#dea584",
     "badge_color": "000000",
     "logo": "rust",
@@ -383,7 +383,7 @@
     "logo": "xml",
     "extensions": [".xml"]
   },
-  "Md": {
+  "Markdown": {
     "color": "#083fa1",
     "badge_color": "000000",
     "logo": "markdown",
