@@ -1,5 +1,5 @@
 {
-  "Python": {
+  "Py": {
     "color": "#3572A5",
     "badge_color": "3776AB",
     "logo": "python",
@@ -11,13 +11,13 @@
     "logo": "mojo",
     "extensions": [".mojo"]
   },
-  "JavaScript": {
+  "JS": {
     "color": "#f1e05a",
     "badge_color": "F7DF1E",
     "logo": "javascript",
     "extensions": [".js", ".mjs", ".cjs", ".jsx"]
   },
-  "TypeScript": {
+  "TS": {
     "color": "#2b7489",
     "badge_color": "3178C6",
     "logo": "typescript",
@@ -53,7 +53,7 @@
     "logo": "go",
     "extensions": [".go"]
   },
-  "Rust": {
+  "Rs": {
     "color": "#dea584",
     "badge_color": "000000",
     "logo": "rust",
@@ -383,7 +383,7 @@
     "logo": "xml",
     "extensions": [".xml"]
   },
-  "Markdown": {
+  "Md": {
     "color": "#083fa1",
     "badge_color": "000000",
     "logo": "markdown",
@@ -474,7 +474,7 @@
     "badge_color": "DD5B52",
     "extensions": [".re", ".rei"]
   },
-  "WebAssembly": {
+  "WASM": {
     "color": "#04133b",
     "badge_color": "654FF0",
     "logo": "webassembly",
