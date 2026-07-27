@@ -221,7 +221,8 @@
     "color": "#c065db",
     "badge_color": "7F5AB6",
     "logo": "gnuemacs",
-    "extensions": [".el", ".spacemacs"]
+    "extensions": [".el"]
+    "filenames": [".spacemacs"]
   },
   "OCaml": {
     "color": "#3be133",
