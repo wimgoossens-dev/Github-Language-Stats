@@ -475,7 +475,7 @@
     "badge_color": "DD5B52",
     "extensions": [".re", ".rei"]
   },
-  "WASM": {
+  "Webassembly": {
     "color": "#04133b",
     "badge_color": "654FF0",
     "logo": "webassembly",
